@@ -1,0 +1,9 @@
+Confusion Matrix
+Rows = Actual, Columns = Predicted
+
+[[887  16]
+ [ 13 118]]
+
+Matrix interpretation:
+[[TN, FP],
+ [FN, TP]]

@@ -1,0 +1,11 @@
+sample_id,message,predicted_label,confidence_percent,spam_probability_percent,ham_probability_percent
+1,"Hey, are we still meeting for lunch today?",ham,92.78,7.22,92.78
+2,Congratulations! You have won a free prize. Call now to claim your reward.,spam,96.41,96.41,3.59
+3,Can you send me the notes from today's class?,ham,83.78,16.22,83.78
+4,URGENT! You have won a cash prize of 1000 pounds. Text WIN to 80000 now.,spam,99.43,99.43,0.57
+5,Your appointment is confirmed for tomorrow at 10 AM.,ham,74.64,25.36,74.64
+6,Free entry in a weekly competition to win a brand new car. Text WIN now!,spam,91.47,91.47,8.53
+7,Please call me when you reach home.,ham,90.51,9.49,90.51
+8,You have been selected for a special cash reward. Claim your prize immediately.,spam,95.04,95.04,4.96
+9,Don't forget to bring your project report tomorrow.,ham,87.02,12.98,87.02
+10,Congratulations! You are the lucky winner of a free vacation. Call now to claim.,spam,91.04,91.04,8.96
