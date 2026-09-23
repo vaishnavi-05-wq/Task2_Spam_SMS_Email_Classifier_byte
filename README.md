@@ -333,7 +333,7 @@ Display Spam probability.
 
 The deployed Streamlit application is available here:
 
-👉 **[Open Spam SMS Classifier Live Demo](https://task2-spam-sms-classifier.streamlit.app/)**
+Live Dashboard: https://task2-spam-sms-classifier.streamlit.app/
 
 The live application allows users to:
 
