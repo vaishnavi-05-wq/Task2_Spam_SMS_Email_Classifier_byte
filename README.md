@@ -29,6 +29,19 @@ The project uses:
 - Streamlit
 
 ---
+# **🚀 Live Demo**
+
+The deployed Streamlit application is available here:
+
+👉 **[Open Spam SMS Classifier Live Demo](https://task2-spam-sms-classifier.streamlit.app/)**
+
+The live application allows users to:
+
+- Enter an SMS message
+- Get a Ham/Spam prediction
+- View prediction confidence
+- View Ham probability
+- View Spam probability
 
 ## 🎯 Objective
 
@@ -327,22 +340,6 @@ Display Ham/Spam classification.
 Display prediction confidence.
 Display Ham probability.
 Display Spam probability.
-
-
-# **🚀 Live Demo**
-
-The deployed Streamlit application is available here:
-
-Live Dashboard: https://task2-spam-sms-classifier.streamlit.app/
-
-The live application allows users to:
-
-- Enter an SMS message
-- Get a Ham/Spam prediction
-- View prediction confidence
-- View Ham probability
-- View Spam probability
-
 
 
 ▶️ Run the Project Locally
